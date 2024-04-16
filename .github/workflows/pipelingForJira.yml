@@ -1,0 +1,4 @@
+name: pipelingForJira.yml
+on:
+
+jobs:
